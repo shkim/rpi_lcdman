@@ -1,0 +1,15 @@
+{
+  "window.title": "${dirty}${activeEditorLong} - RPi 16x2 LCD API",
+  "search.exclude": {
+    "**/dist": true,
+  },
+  "editor.renderWhitespace": "all",
+  "files.eol": "\n",
+  "files.exclude": {
+    "venv": true,
+    "*.marker": true,
+    ".pytest_cache": true,
+    "**/__pycache__": true,
+    "**/*.pyc": true
+  }
+}
